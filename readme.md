@@ -14,7 +14,7 @@ The code may be used for simple purposes:
 The generator is lightweight, requires **no external dependencies**, and can run indefinitely.
 
 # Disclaimer
-** IMPORTANT **
+**IMPORTANT**
 - This project is for educational, creative and safe purposes only.
 - Never use this to **spam, harass or harm others**.
 - The **author isn't reponsible** for misuse of this code.
