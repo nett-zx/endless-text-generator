@@ -18,6 +18,6 @@ The generator is lightweight, requires **no external dependencies**, and can run
 - This project is for educational, creative and safe purposes only.
 - Never use this to **spam, harass or harm others**.
 - The **author isn't reponsible** for misuse of this code.
-- Safe uses include those where you would not like others do it you.
+- Safe uses include those where you would not like others, do it to you.
 
 By following these guidelines, you can safely use this project for creative and practical purposes.
