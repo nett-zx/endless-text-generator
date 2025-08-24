@@ -1,8 +1,8 @@
 # Infinite Text Producing Machine
 ## Description 
-This is a simple, project that generates an endless text spitting machine using timestamps and hasing that provides non-repeating and non-recurring texts as each time stamp may be unique.
+This is a simple project that generates an endless text spitting machine using timestamps and hasing that provides non-repeating and non-recurring texts as each time stamp is unique.
 
-These strings may be used for simple purposes:
+The code may be used for simple purposes:
   - generating an infinite machine that runs forever and provides texts.
   - a simple random password
   - can be used to generate texts that are placeholders 
